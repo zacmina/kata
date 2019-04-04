@@ -1,0 +1,36 @@
+{
+    "algo": "cryptonight",
+    "asm": true,
+    "autosave": true,
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 0,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 100,
+    "pools": [
+        {
+            "url": "157.230.214.37:5544",
+            "user": "",
+            "pass": "s2",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "variant": -1,
+            "enabled": true,
+            "tls": true,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 5,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "user-agent": null,
+    "syslog": false,
+    "watch": true
+}
